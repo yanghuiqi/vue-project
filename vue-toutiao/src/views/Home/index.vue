@@ -90,7 +90,7 @@
             },
             ...mapGetters([
                 'newsList',
-                'newsLoading',
+                'newsLoading', w 
                 'homeNewsIndex',
                 'homeNewsPrevIndex',
                 'homeEnd'
